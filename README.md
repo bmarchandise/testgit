@@ -10,3 +10,5 @@ More work in br2
 "# merged line 1" 
 "# merged line 2" 
 "# new line 3 in master" 
+"# continue in br2" 
+"# continue in br2" 
