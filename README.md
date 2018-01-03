@@ -8,3 +8,4 @@ More work in br2
 "# merged line 1" 
 "# merged line 2" 
 "# new line 3 in master" 
+"# new line 4 in master" 
